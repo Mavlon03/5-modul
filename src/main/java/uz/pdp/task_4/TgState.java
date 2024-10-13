@@ -1,0 +1,5 @@
+package uz.pdp.task_4;
+
+public enum TgState {
+    SENDING_CONTACT, SENDING_GENDER, FINISHED, CHOOSING_GENDER, CHOOSENG_MARRY, START
+}
